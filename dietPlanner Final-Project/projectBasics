@@ -1,0 +1,43 @@
+DIET PLANNER V2 or DIET PLANNER official release 
+
+=> complete rebuild of the code 
+=> new menu options
+
+=> 3 databases(maybe 4)
+=> the first database is VEG
+=> the second database is NON-VEG
+=> the third databse is Beverages 
+
+=> each database will have 3 tables 
+=> breakfast, lunch and dinner 
+=> each table will have 4 rows 
+
+> beverages will have only 1 table 
+
+example table breakfast 
+
+no name_dish  calorie_dish  portion_dish  rating_dish 
+1  pasta        500cal             1          4.5
+2   salad       150cal             2          1.0
+
+
+# new ideas
+=> obviouly we'll use a graphical user interface, this time it will
+be much better with more options 
+=> we could maybe add a login/register page where users can register
+and login with their accounts 
+=> we can even add a save feature where you can save your meal pref
+=> add a frinds feature where you can see what other people are 
+doing 
+=> maybe even have a profile page with the users information 
+
+
+#math
+
+=> same algorith we used last time to calculate the calorie count 
+and stuff
+
+
+
+
+
